@@ -10,8 +10,10 @@ print(name)
 print(name)
 print(name)'''
 
-#taking input from user
+'''#taking input from user
 name=input("enter ur name :")
 city=input("give your city name:")
-print("my name is ",name,", i'm from ",city)
+print("my name is ",name,", i'm from ",city)'''
+
+
 
